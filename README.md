@@ -1,10 +1,13 @@
 # Insurance Premium Prediction
-Built a web application for Insurance Premium Prediction, User will enter the required values & hit Get Premium, and it will show the premium as below
+Built a web application for Insurance Premium Prediction, User will enter the required values & hit Get Premium, and it will show the **premium** as result.
+
+Webapp- https://insurance-premium-webapp.herokuapp.com/
 
 ## Overview:
 **Title	:**  **Insurance Premium Prediction**  
 **Domain :** 	Insurance  
 **Tools & Technology :** Python | Data-Preprocessing | EDA | Feature Engineering | Machine Learning | Flask-API | HTML | Heroku | AWS  
+**ML Algorithms :** Linear Regressor | SVM Regressor | DT Regressor | RF Regressor | Gradient Boosting Regressor | Stacking Regressor  
 **IDE :** PyCharm | Google Colab
 
 ## Project Description
