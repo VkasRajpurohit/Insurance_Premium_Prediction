@@ -1,11 +1,8 @@
 # Insurance Premium Prediction
 Built a web application for Insurance Premium Prediction, User will enter the required values & hit Get Premium, and it will show the **premium** as result.
 
-<<<<<<< HEAD
-Webapp- https://insurance-premium-webapp.herokuapp.com/
-=======
+
 ### Webapp-- https://insurance-premium-webapp.herokuapp.com/
->>>>>>> 1a83ffbd04084e03029298aef9e39209bb2760a2
 
 ## Overview:
 **Title	:**  **Insurance Premium Prediction**  
@@ -27,7 +24,10 @@ Saved the best model in pickle file format.
 ## Model Deployment
 After the training part, created a User Interface web application using Flask-API & HTML and deployed the model for productionisation using Heroku & AWS.
 
-## Demo
+## Demo Screen-Shot
 ![img.png](img.png)
 
 ![img_1.png](img_1.png)
+
+## Demo Video
+https://user-images.githubusercontent.com/82312234/159488474-e1c0b94e-8117-4572-ad86-a6fc41434d19.mp4
