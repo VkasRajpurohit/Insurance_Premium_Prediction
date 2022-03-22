@@ -1,7 +1,11 @@
 # Insurance Premium Prediction
 Built a web application for Insurance Premium Prediction, User will enter the required values & hit Get Premium, and it will show the **premium** as result.
 
+<<<<<<< HEAD
 Webapp- https://insurance-premium-webapp.herokuapp.com/
+=======
+### Webapp-- https://insurance-premium-webapp.herokuapp.com/
+>>>>>>> 1a83ffbd04084e03029298aef9e39209bb2760a2
 
 ## Overview:
 **Title	:**  **Insurance Premium Prediction**  
