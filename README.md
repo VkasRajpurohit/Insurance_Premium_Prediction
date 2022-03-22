@@ -6,7 +6,7 @@ Webapp- https://insurance-premium-webapp.herokuapp.com/
 ## Overview:
 **Title	:**  **Insurance Premium Prediction**  
 **Domain :** 	Insurance  
-**Tools & Technology :** Python | Data-Preprocessing | EDA | Feature Engineering | Machine Learning | Flask-API | HTML | Heroku | AWS  
+**Tools & Technology :** Python | Data-Preprocessing | EDA | Feature Engineering | Machine Learning | Flask-API | HTML | GitHub | Heroku | AWS  
 **ML Algorithms :** Linear Regressor | SVM Regressor | DT Regressor | RF Regressor | Gradient Boosting Regressor | Stacking Regressor  
 **IDE :** PyCharm | Google Colab
 
